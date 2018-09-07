@@ -27,6 +27,10 @@ public class EjercicioGravedad {
     
     Scanner entrada = new Scanner (System.in);
     
+    // Creo las variables de tipo double
+    
+    double altura, tiempo;
+    
     
     
   }
