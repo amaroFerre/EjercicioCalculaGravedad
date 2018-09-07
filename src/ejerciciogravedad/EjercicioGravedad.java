@@ -22,6 +22,13 @@ public class EjercicioGravedad {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    // Creo un objeto de la clase Scanner
+    
+    Scanner entrada = new Scanner (System.in);
+    
+    
+    
   }
   
 }
