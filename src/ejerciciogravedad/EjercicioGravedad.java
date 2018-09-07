@@ -45,6 +45,10 @@ public class EjercicioGravedad {
      // Realizo la fórmula 
      tiempo  = Math.sqrt(2*altura/gravedad);
      
+     // Imprimo por pantalla el resultado
+     
+     System.out.println("El tiempo que tardará en caer el objeto desde una altura" + altura + " será de: "+tiempo);
+     
      
     
     
