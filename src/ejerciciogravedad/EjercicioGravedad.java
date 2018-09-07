@@ -31,6 +31,10 @@ public class EjercicioGravedad {
     
     double altura, tiempo;
     
+    // Creo una constante de la gravedad 
+    
+     final double gravedad = 9.82;
+    
     
     
   }
