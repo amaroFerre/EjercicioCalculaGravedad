@@ -5,6 +5,10 @@
  */
 package ejerciciogravedad;
 
+//Importo el paqueta java.util para poder utilizar la clase Scanner
+
+import java.util.*;
+
 /**
  * Realiza un programa que calcule el tiempo que tardará en caer un objeto desde
  * una altura h. Aplica la fórmula t = √2h g siendo g = 9.81m/s 2
