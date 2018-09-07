@@ -35,6 +35,17 @@ public class EjercicioGravedad {
     
      final double gravedad = 9.82;
     
+     
+     // Pido la altura por teclado
+     
+     System.out.println("Introduce la altura: ");
+     
+     altura = entrada.nextDouble();
+     
+     // Realizo la fórmula 
+     tiempo  = Math.sqrt(2*altura/gravedad);
+     
+     
     
     
   }
