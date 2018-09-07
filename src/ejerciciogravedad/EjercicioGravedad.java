@@ -47,8 +47,11 @@ public class EjercicioGravedad {
      
      // Imprimo por pantalla el resultado
      
-     System.out.println("El tiempo que tardará en caer el objeto desde una altura" + altura + " será de: "+tiempo);
+     System.out.print("El tiempo que tardará en caer el objeto desde una altura de  " + altura +" metros ");
      
+     System.out.printf("%.2f", tiempo );
+     
+     System.out.print (" segundos.");
      
     
     
