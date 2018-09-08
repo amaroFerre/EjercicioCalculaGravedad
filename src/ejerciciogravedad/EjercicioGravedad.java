@@ -33,7 +33,7 @@ public class EjercicioGravedad {
     
     // Creo una constante de la gravedad 
     
-     final double gravedad = 9.82;
+     final double GRAVEDAD = 9.82;
     
      
      // Pido la altura por teclado
