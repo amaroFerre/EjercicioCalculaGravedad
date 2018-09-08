@@ -43,7 +43,7 @@ public class EjercicioGravedad {
      altura = entrada.nextDouble();
      
      // Realizo la fórmula 
-     tiempo  = Math.sqrt(2*altura/gravedad);
+     tiempo  = Math.sqrt(2*altura/GRAVEDAD);
      
      // Imprimo por pantalla el resultado
      
